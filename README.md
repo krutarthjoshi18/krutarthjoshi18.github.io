@@ -1,9 +1,7 @@
-# Midnight
+# MyWebpage
 
-Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is availalbe for download, forking and using anywhere else on the web. Like the theme share it with the twitterverse. 
+This is the website that contains a little bit about myself, my interests, projects, and some interesting random facts.
 
-The Midnight Pages demo is [here](http://mattgraham.github.com/Midnight) 
-
-Theme by [Matt Graham](http://madebygraham.com), twitter [@michigangraham](http://twitter.com/#!/michigangraham)
+By [Krutarth Joshi](http://krutarthjoshi18.github.io)  Based on theme by [Matt Graham](http://madebygraham.com)
 
 [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
